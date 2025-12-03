@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family:"bai jamjuree",sans-serif;
+    display: flex;
+}
+button{
+    background: colar #64a712;
+    colar:white
+    font-family:"bai jamjuree",sans-serif;
+}
